@@ -13,4 +13,4 @@ To download check releases
 
 This repository stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Artembay&repo=Aseprite&theme=tokyonight&show_icons=true)
