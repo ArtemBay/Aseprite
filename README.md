@@ -9,8 +9,6 @@ Builded version Aseprite with crack  👨‍💻
 
 To download check releases
 
+How to start Aseprite?
 
-
-This repository stats
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Artembay&repo=Aseprite&theme=tokyonight&show_icons=true)
+You need download release and unzip him. In folder "Aseprite/bin" , you can found "aseprite.exe". You need start this exe file and you can draw in Aseprite
